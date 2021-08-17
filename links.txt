@@ -1,0 +1,3 @@
+https://swcarpentry.github.io/git-novice/
+https://swcarpentry.github.io/git-novice/01-basics/index.html
+
